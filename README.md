@@ -22,53 +22,51 @@ I build full-stack applications with a strong focus on **frontend engineering, b
 <br/>
 
 ## My Skill Set
- 
-### Frontend
- 
-<div align="center">
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://react.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> | <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="50" /></a> | <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="50" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="50" /></a> |
-| <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> | <a href="https://alpinejs.dev/" target="_blank"><img src="https://cdn.simpleicons.org/alpine.js/8BC0D0" alt="Alpine.js" height="50" /></a> | | |
- 
-</div>
-### Backend
- 
-<div align="center">
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="50" /></a> | <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" height="50" /></a> | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.simpleicons.org/django/092E20" alt="Django" height="50" /></a> | <a href="https://go.dev/" target="_blank"><img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" height="50" /></a> | <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="50" /></a> |
-| <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="50" /></a> | <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" height="50" /></a> | <a href="https://docs.pydantic.dev/" target="_blank"><img src="https://cdn.simpleicons.org/pydantic/E92063" alt="Pydantic" height="50" /></a> | | |
- 
-</div>
-### AI & Machine Learning
- 
-<div align="center">
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="50" /></a> | <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21F" alt="Hugging Face" height="50" /></a> | <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="50" /></a> | <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="50" /></a> | <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.simpleicons.org/matplotlib/11557c" alt="Matplotlib" height="50" /></a> |
-| <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/seaborn/4c72b0" alt="Seaborn" height="50" /></a> | <a href="https://colab.research.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlecolab/f9ab00" alt="Google Colab" height="50" /></a> | | | |
- 
-</div>
-### Databases
- 
-<div align="center">
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" height="50" /></a> | <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="50" /></a> | <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="50" /></a> | <a href="https://redis.io/" target="_blank"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" height="50" /></a> | |
- 
-</div>
-### DevOps & Tools
- 
-<div align="center">
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="50" /></a> | <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" height="50" /></a> | <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" /></a> | <a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" height="50" /></a> | <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="50" /></a> |
-| <a href="https://axios-http.com/" target="_blank"><img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" height="50" /></a> | | | | |
- 
-</div>
-<br/>
 
+<table><tr><td valign="top" width="33%">
+
+### Frontend
+
+<div align="center">  
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://html.spec.whatwg.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://alpinejs.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/alpine.js/8BC0D0" alt="Alpine.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Backend
+
+<div align="center">  
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Database & Tools
+
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium" height="50" /></a>  
+<a href="https://axios-http.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="50" /></a>  
+</div>
+
+</td></tr></table>
+
+<br/>
 ## Experience
 
 💼 **Junior Frontend / Full-Stack Developer** *(1 year)*  
