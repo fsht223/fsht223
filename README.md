@@ -2,28 +2,22 @@
 
 # Alisher Ibrayev 🇰🇿
 
-### Software Engineer | Full-Stack Developer | SWE Student
+### Software Engineer | Full-Stack Developer | MSc Student @ Sapienza
 
 </div>
 
-- 💻 Software Engineering student at university  
-- 🚀 Frontend Developer working with React, analytics dashboards & data visualization  
-- 🛠️ Full-stack experience with React, FastAPI, Express.js, Django & MySQL  
-- 🌱 Currently learning advanced system design, scalable backend architecture & mobile development  
-- 🎯 Looking for internship and junior software engineering opportunities  
+- 💻 MSc student in [Engineering in Computer Science and Artificial Intelligence](https://corsidilaurea.uniroma1.it/en/course/33515) at Sapienza University of Rome
+- 🎓 BSc in Software Engineering — Astana IT University
+- 🚀 1+ year of experience as a Junior Frontend/Full-Stack Developer
+- 🛠️ Full-stack experience with React, Next.js, FastAPI, Express.js, Django & MySQL
+- 🎯 Seeking internship opportunities in **AI**, software engineering & web development
 - 🇮🇹 Based in Rome, Italy
 
 <br/>
 
 ## About Me
 
-I build full-stack applications with a strong focus on **frontend engineering, backend systems, automation, and analytics**.
-
-Currently working on:
-- 🎵 **Úıren** — gamified music learning mobile app (React Native + Go)
-- 🔔 **Qońyraý** — school bell management desktop system
-- 📊 CRM & analytical dashboards with charts, parsing and database optimization
-- 🤖 Automation systems for Excel processing, Selenium scraping & database workflows
+I build full-stack applications with a strong focus on **frontend engineering, backend systems, automation, and analytics**. I hold a Bachelor's degree in Software Engineering from Astana IT University (Kazakhstan) and am currently pursuing a Master's in Engineering in Computer Science and Artificial Intelligence at Sapienza University of Rome. I have a year of hands-on industry experience as a junior developer and am now looking to break into AI-focused roles.
 
 <br/>
 
@@ -35,6 +29,7 @@ Currently working on:
 
 <div align="center">  
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>  
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="50" /></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -76,14 +71,24 @@ Currently working on:
 
 ## Experience
 
-💼 **Frontend / Full-Stack Developer**  
-Building CRM systems, analytics dashboards, and automation tools using React, Express.js, FastAPI, and MySQL.
+💼 **Junior Frontend / Full-Stack Developer** *(1 year)*  
+Built CRM systems, analytics dashboards, and automation tools using React, Express.js, FastAPI, and MySQL.
 
 📊 **Data & Database Engineering**  
-Optimizing large-scale data fetching, analytics systems, and automated database workflows.
+Optimized large-scale data fetching, analytics systems, and automated database workflows.
 
 ⚙️ **Automation Engineering**  
 Excel parsing, Selenium browser automation, and large-scale service monitoring systems.
+
+<br/>
+
+## Education
+
+🎓 **MSc — Engineering in Computer Science and Artificial Intelligence**  
+Sapienza University of Rome *(current)*
+
+🎓 **BSc — Software Engineering**  
+Astana IT University, Kazakhstan
 
 <br/>
 
@@ -101,22 +106,8 @@ Excel parsing, Selenium browser automation, and large-scale service monitoring s
 
 </div>
 
-<br/>
-
-## Github Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fsht223&show_icons=true&count_private=true&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsht223&layout=compact&hide_border=true" />
-
-</div>
-
 ---
 
 <div align="center">
-⭐ Always open to collaboration and interesting software projects
+⭐ Open to internship opportunities in AI, software engineering & web development
 </div>
