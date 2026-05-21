@@ -37,7 +37,7 @@ I build full-stack applications with a strong focus on **frontend engineering, b
 <a href="https://alpinejs.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/alpine.js/8BC0D0" alt="Alpine.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Backend
 
