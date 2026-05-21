@@ -23,7 +23,7 @@ I build full-stack applications with a strong focus on **frontend engineering, b
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Frontend
 
@@ -51,7 +51,7 @@ I build full-stack applications with a strong focus on **frontend engineering, b
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Database & Tools
 
