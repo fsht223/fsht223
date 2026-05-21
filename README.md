@@ -67,8 +67,19 @@ I build full-stack applications with a strong focus on **frontend engineering, b
 <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/huggingface/FFD21F" alt="Hugging Face" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="50" /></a>
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" height="50" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" height="50" /></a>
+<div align="center">
+
+<a href="https://matplotlib.org/" target="_blank">
+  <img style="margin: 5px" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" height="45" />
+</a>
+
+<br/>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img style="margin: 5px" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" height="45" />
+</a>
+
+</div>
 <a href="https://colab.research.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlecolab/f9ab00" alt="Google Colab" height="50" /></a>
 
 </div>
