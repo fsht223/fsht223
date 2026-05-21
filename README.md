@@ -6,11 +6,11 @@
 
 </div>
 
-- 💻 MSc student in [Engineering in Computer Science and Artificial Intelligence](https://corsidilaurea.uniroma1.it/en/course/33515) at Sapienza University of Rome
+- 💻 MSc student in Engineering in Computer Science and Artificial Intelligence at Sapienza University of Rome
 - 🎓 BSc in Software Engineering — Astana IT University
-- 🚀 1+ year of experience as a Junior Frontend/Full-Stack Developer
+- 🚀 1+ year of professional experience as a Junior Frontend/Full-Stack Developer at [NITEC](https://www.nitec.kz/en?q=/)
 - 🛠️ Full-stack experience with React, Next.js, FastAPI, Express.js, Django & MySQL
-- 🎯 Seeking internship opportunities in **AI**, software engineering & web development
+- 🎯 Seeking internship and job opportunities in **AI**, software engineering & web development
 - 🇮🇹 Based in Rome, Italy
 
 <br/>
@@ -104,10 +104,4 @@ Astana IT University, Kazakhstan
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
-
----
-
-<div align="center">
-⭐ Open to internship opportunities in AI, software engineering & web development
 </div>
