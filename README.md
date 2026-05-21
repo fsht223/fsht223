@@ -67,15 +67,15 @@ I build full-stack applications with a strong focus on **frontend engineering, b
 <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/huggingface/FFD21F" alt="Hugging Face" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="50" /></a>
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/matplotlib/11557C" alt="Matplotlib" height="50" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/seaborn/4C72B0" alt="Seaborn" height="50" /></a>
-<a href="https://colab.research.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Google Colab" height="50" /></a>
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/matplotlib/11557c" alt="Matplotlib" height="50" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/seaborn/4c72b0" alt="Seaborn" height="50" /></a>
+<a href="https://colab.research.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlecolab/f9ab00" alt="Google Colab" height="50" /></a>
 
 </div>
 
 <br/>
 
-### 🗄️ Databases
+### Databases
 
 <div align="center">
 
